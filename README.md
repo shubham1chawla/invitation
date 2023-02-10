@@ -2,6 +2,8 @@
 
 You will need to solve all these questions to know the pickup location, time of pickup, and some extra information for the event.
 
+> **Note:** Use the command `sudo ufw allow 1941/tcp` to allow `1941` port on ubuntu's firwall.
+
 ## Challenge 0 - Connect to TCP Server
 
 Users are required to connect to a specific port of the given IP address.
@@ -9,6 +11,8 @@ Users are required to connect to a specific port of the given IP address.
 ```
 김정일
 ```
+
+It should be Kim Jong-il's birth year.
 
 ## Challenge 1 - Decrypt BrainF\*ck code
 
