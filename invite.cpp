@@ -1,7 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <windows.h>
-#include <unistd.h>
 using namespace std;
 
 #define SEP "--------------------------------------------------------------------------------"
@@ -21,14 +19,12 @@ void introduction()
     cout << SEP << endl;
     cout << "Welcome to the Invite!" << endl;
     cout << SEP << endl;
-    sleep(1);
     cout << "There are 4 challenges in this invite that you'll need to solve." << endl;
     cout << "You can paste your answer when you see INPUT> on your screen." << endl;
     cout << "If you're stuck, ask for a 'cheat' from the host." << endl;
     cout << "Host will give you a code which will unlock the hint." << endl;
     cout << "Enough talking, let's see if you can crack this invite! All the best!" << endl;
     cout << SEP << endl;
-    sleep(1);
     cout << "Press enter to continue..." << endl;
     cin.ignore();
 }
@@ -80,7 +76,7 @@ int main()
         {
             cout << SEP << endl;
             cout << "Disappointed but not surprised! Try again later." << endl;
-            sleep(1);
+
             cout << "https://media.tenor.com/LCvEt6lB5jwAAAAM/himym-ted.gif" << endl;
             cout << SEP << endl;
             break;
