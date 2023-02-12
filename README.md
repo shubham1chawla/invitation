@@ -47,7 +47,7 @@ Once decrypted, user will finally know the pickup location.
 This challenge will test user's hindu mythology's knowledge, specifically its time units.
 
 ```
-ahorātram - nadika
+30 muhurta - 1 danda
 ```
 
 It will translate to `23:36`.
