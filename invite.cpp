@@ -19,11 +19,11 @@ void introduction()
     cout << SEP << endl;
     cout << "Welcome to the Invite!" << endl;
     cout << SEP << endl;
-    cout << "There are 4 challenges in this invite that you'll need to solve." << endl;
+    cout << "There are four challenges in this invite that you will need to solve." << endl;
     cout << "You can paste your answer when you see INPUT> on your screen." << endl;
-    cout << "If you're stuck, ask for a 'cheat' from the host." << endl;
-    cout << "Host will give you a code which will unlock the hint." << endl;
-    cout << "Enough talking, let's see if you can crack this invite! All the best!" << endl;
+    cout << "If you are stuck, ask for a 'cheat' from the host." << endl;
+    cout << "The host will give you a code that will unlock the hint." << endl;
+    cout << "Enough talking, let us see if you can crack this invite! All the best!" << endl;
     cout << SEP << endl;
     cout << "Press enter to continue..." << endl;
     cin.ignore();

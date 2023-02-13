@@ -6,6 +6,8 @@ This repository contains a program to distribute invites to players in a CTF-lik
 
 > **Note:** If stuck, players can ask for a hint code, which will unlock the hint for the given challenge.
 
+![promotional-image](https://user-images.githubusercontent.com/31181262/218592850-23c24a54-6ce8-465b-832a-e71bb4431015.png)
+
 ## Challenge 0 - Connect to TCP Server
 
 Once the application is run using ubuntu's `tcpserver` command on a specific port number, players will connect to this application using the `nc` command.
